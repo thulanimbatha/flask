@@ -9,5 +9,5 @@ def hello_world():
 def say_bye():
     return "Bye"
 
-# if __name__ == "__main__":
-#     app.run()
+if __name__ == "__main__":
+    app.run()
